@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Maz-Bil or Maz
-- 👀 I’m interested in Software Engineering as a whole from education to the industry practice.
-- 🌱 I’m currently learning PostgreSQL, ASP.NET / C#, and 100 Days of Python with Angela Yu on Udemy.
-- 💻 I’m almost finished with my bachelors degree in Computer Science (Software Engineering) and working on the 4+1 Computer Science Masters Program (MCS).
+- 👋 Hi, I am @Maz-Bil or Maz
+- 👀 I am interested in Software Engineering as a whole from education to the industry practice.
+- 🌱 I am currently learning PostgreSQL, ASP.NET / C#, and 100 Days of Python with Angela Yu on Udemy.
+- 💻 I am a 4+1 student in Computer Science (Software Engineering) at ASU
 - 📫 How to reach me, you can find me on LinkedIn : https://www.linkedin.com/in/maz-bil/
 
 <!---
