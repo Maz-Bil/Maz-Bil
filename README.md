@@ -1,7 +1,7 @@
 - 👋 Hi, I am Maz
-- 👀 I am interested in Software Engineering as a whole from education to the industry practice.
-- 🌱 I am currently learning PostgreSQL, ASP.NET / C#, and 100 Days of Python with Angela Yu on Udemy.
-- 💻 I am a 4+1 student in Computer Science (Software Engineering) at ASU
+- 👀 I am interested in Software Engineering.
+- 🌱 I am currently learning PostgreSQL, ASP.NET / C#, and Python Bootcamp From Zero to Hero with Jose Portilla on Udemy.
+- 💻 I am a 4+1 student in Computer Science (Software Engineering) at ASU.
 - 📫 How to reach me, you can find me on LinkedIn : https://www.linkedin.com/in/maz-bil/
 
 <!---
