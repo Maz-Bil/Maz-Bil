@@ -1,10 +1,10 @@
-- 👋 Hi, I am Maz
-- 👀 I am interested in the broad field of Science.
-- 💻 I am a Grad student in Computer Science at ASU.
-- 💻 I also continue to take STEM related coursework at Chandler-Gilbert Community College to expand my skillset and education.
-- 🌱 I am currently learning at ASU: Software Design
-- 🌱 I am currently learning at CGC: Computer Engineering (C/C++,Linux,Git) & Statistics (R/Rstudio) course.
-- 📫 How to reach me, you can find me on LinkedIn : https://www.linkedin.com/in/maz-bil/
+Mazhar (Maz) Bilgrami is an educator, technologist, and academic operations leader with a strong foundation in Computer Science, instructional innovation, and learner-centered program delivery. He currently serves as an Online Course Manager for Computer Science within Arizona State University's Learning Enterprise, where he manages multi-modal, large-scale instructional operations for foundational CS courses such as CSE 110 - Principles of Programming. In this role, Maz leads grader teams, ensures consistency across session-based and on-demand course models, establishes and monitors success metrics, and partners closely with faculty, learning designers, and STEM leadership to enhance course quality, accessibility, and student success.
+
+Maz is also an Adjunct Professor at Chandler-Gilbert Community College, teaching Computer Information Systems and supporting a highly diverse student population through inclusive instructional practices. His teaching portfolio spans programming fundamentals, Java, C++, Scheme, Prolog, digital design, applied mathematics, and individualized tutoring for computer science learners.
+
+His broader technical background includes software development, HR systems engineering, accessibility support, and cybersecurity education. At Iridium, Maz contributed to HR systems integrations, SQL-based data workflows, technical documentation, and internal automation solutions, including an EV-charging reservation prototype built with Python, JavaScript, and HTML/CSS. As a Software Engineer Intern at Sandler, he developed React and React Native features in an Agile environment. He previously served as a Cybersecurity Lead Undergraduate TA for ASU’s - pwn.college (CSE 365), supporting more than 600 students through teaching, debugging, problem-solving, and CTF demonstrations. Maz also spent four years as an IT Accessibility Intern at Mesa Community College, ensuring ADA/WCAG compliance, training faculty and students on assistive technologies, and enhancing operational processes.
+
+Maz is finishing his MS in Computer Science (in progress, ~2027) and a BS in Computer Science (2023) from the Ira A. Fulton Schools of Engineering at Arizona State University, as well as an AS in Computer Science from Chandler-Gilbert Community College. He is active in academic communities through several ASU organizations, including the ASU Astronomy Club, ASU Geology Club, ASU Software Developers Association, and ASU - Discord CS Café, reflecting his interdisciplinary interests and commitment to scientific literacy.
 
 <!---
 Maz-Bil/Maz-Bil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
